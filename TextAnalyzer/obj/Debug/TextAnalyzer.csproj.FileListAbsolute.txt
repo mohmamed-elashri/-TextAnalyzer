@@ -1,0 +1,7 @@
+C:\Users\Reda alashry\Desktop\My tasks in C#\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Reda alashry\Desktop\My tasks in C#\TextAnalyzer\obj\Debug\TextAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Reda alashry\Desktop\My tasks in C#\TextAnalyzer\bin\Debug\TextAnalyzer.exe.config
+C:\Users\Reda alashry\Desktop\My tasks in C#\TextAnalyzer\bin\Debug\TextAnalyzer.exe
+C:\Users\Reda alashry\Desktop\My tasks in C#\TextAnalyzer\bin\Debug\TextAnalyzer.pdb
+C:\Users\Reda alashry\Desktop\My tasks in C#\TextAnalyzer\obj\Debug\TextAnalyzer.exe
+C:\Users\Reda alashry\Desktop\My tasks in C#\TextAnalyzer\obj\Debug\TextAnalyzer.pdb
